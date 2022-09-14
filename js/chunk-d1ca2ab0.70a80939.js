@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-d1ca2ab0"],{4273:function(n,e,c){"use strict";c("7285")},7285:function(n,e,c){},9545:function(n,e,c){"use strict";c.r(e);var t=c("7a23");const o={class:"phone"},a=Object(t["createElementVNode"])("p",null,"请在PC端打开",-1),r=[a];function s(n,e){return Object(t["openBlock"])(),Object(t["createElementBlock"])("div",o,r)}c("4273");var u=c("6b0d"),i=c.n(u);const d={},l=i()(d,[["render",s]]);e["default"]=l}}]);
-//# sourceMappingURL=chunk-d1ca2ab0.68a7f79b.js.map
+//# sourceMappingURL=chunk-d1ca2ab0.70a80939.js.map
